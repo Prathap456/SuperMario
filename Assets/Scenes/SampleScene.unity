@@ -49572,7 +49572,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 228714290369020378, guid: 445e765518ebe45d18a9d1b2c91e83cd, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 228714290369020378, guid: 445e765518ebe45d18a9d1b2c91e83cd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -61328,7 +61328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 220
-  jumpSpeed: 500
+  jumpSpeed: 1000
   animator: {fileID: 1680824958}
 --- !u!1001 &1683418125
 PrefabInstance:
@@ -65663,7 +65663,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7569407396358128444, guid: c7174e68aa4504a68a7f7f41f4b47e41, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7569407396358128444, guid: c7174e68aa4504a68a7f7f41f4b47e41, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
